@@ -8,4 +8,8 @@
         <UseWPF>true</UseWPF>
     </PropertyGroup>
 
+    <ItemGroup>
+        <Resource Include="Assets\blue-eyes-white-dragon.jpg" />
+    </ItemGroup>
+
 </Project>
